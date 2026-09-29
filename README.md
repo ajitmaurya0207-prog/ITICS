@@ -28,7 +28,7 @@ Then visit **[http://localhost:8000](http://localhost:8000)**.
 
 1. **Dashboard View (`#view-dashboard`)**:
    - 4 Dynamic Metrics Cards: Active Hotspots (28), Industrial Fires (17), Uncertain Sources (6), Natural/Wildfires (5).
-   - National Overview Leaflet mini-map displaying hotspot density across India.
+   - National Overview Leaflet mini-map displaying a hotspot density across India.
    - Interactive Recent Alerts feed with classification pills, FRP, confidence, and one-click jump to map.
    - 24-hour temporal detection trend bar chart grouped into hourly buckets.
 
